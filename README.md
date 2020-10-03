@@ -24,12 +24,25 @@ nand2tetris
   │       Or8Way.hdl
   │       Xor.hdl
   │
-  └───project02
-          Add16.hdl
-          ALU.hdl
-          FullAdder.hdl
-          HalfAdder.hdl
-          Inc16.hdl
-          Or16Way.hdl
+  ├───project02
+  │       Add16.hdl
+  │       ALU.hdl
+  │       FullAdder.hdl
+  │       HalfAdder.hdl
+  │       Inc16.hdl
+  │       Or16Way.hdl
+  │
+  └───project03
+      ├───a
+      │       Bit.hdl
+      │       PC.hdl
+      │       RAM64.hdl
+      │       RAM8.hdl
+      │       Register.hdl
+      │
+      └───b
+              RAM16K.hdl
+              RAM4K.hdl
+              RAM512.hdl
 ```
 
