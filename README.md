@@ -1,4 +1,5 @@
 # nand2tetris
-nand2tetris Coursera course codes 
+nand2tetris Coursera course Exercise soloutions
 
-[nand2tetris](nand2tetris.org)
+[nand2tetris.org](nand2tetris.org)
+
