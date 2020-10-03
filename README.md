@@ -3,7 +3,7 @@ nand2tetris Coursera course Exercise soloutions
 
 [nand2tetris.org](nand2tetris.org)
 ```bash
-──nand2tetris
+nand2tetris
   │   LICENSE
   │   README.md
   │
@@ -31,3 +31,5 @@ nand2tetris Coursera course Exercise soloutions
           HalfAdder.hdl
           Inc16.hdl
           Or16Way.hdl
+```
+
