@@ -6,7 +6,7 @@ nand2tetris Coursera course Exercise soloutions
 nand2tetris
     │   LICENSE
     │   README.md
-    │
+    │   
     ├───project01
     │       And.hdl
     │       And16.hdl
@@ -45,8 +45,13 @@ nand2tetris
     │           RAM4K.hdl
     │           RAM512.hdl
     │
-    └───project04
-            Fill.asm
-            Mult.asm
+    ├───project04
+    │       Fill.asm
+    │       Mult.asm
+    │
+    └───project05
+            Computer.hdl
+            CPU.hdl
+            Memory.hdl
 ```
 
