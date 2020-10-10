@@ -1,0 +1,8 @@
+# Binary files
+.hack
+
+# Hack Assembly files
+.asm
+
+# hdl files
+.hdl
