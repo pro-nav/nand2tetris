@@ -6,6 +6,7 @@ nand2tetris Coursera course Exercise soloutions
 nand2tetris
     │   LICENSE
     │   README.md
+    │   assembler.py
     │   
     ├───project01
     │       And.hdl
@@ -49,9 +50,16 @@ nand2tetris
     │       Fill.asm
     │       Mult.asm
     │
-    └───project05
-            Computer.hdl
-            CPU.hdl
-            Memory.hdl
+    ├───project05
+    │       Computer.hdl
+    │       CPU.hdl
+    │       Memory.hdl
+    │
+    └───project06
+            Add.hack
+            Max.hack
+            Pong.hack
+            prog.txt
+            Rect.hack
 ```
 
